@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="csv-to-xls-tabs", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="vixandrade",
     author_email="vix.andrade21@gmail.com",
     description="Quick python/pandas script to merge multiple CSV files into a xlsx spreadsheet with multiple tabs",
